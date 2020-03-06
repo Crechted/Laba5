@@ -1,0 +1,140 @@
+{
+  "collection": [
+    {
+      "id": 3932739768238062622,
+      "name": "Org1",
+      "coordinates": {
+        "x": 50,
+        "y": 13
+      },
+      "creationDate": {
+        "date": {
+          "year": 2020,
+          "month": 3,
+          "day": 6
+        },
+        "time": {
+          "hour": 2,
+          "minute": 58,
+          "second": 56,
+          "nano": 166996100
+        }
+      },
+      "annualTurnover": 54.0,
+      "employeesCount": 23,
+      "type": "PUBLIC",
+      "officialAddress": {
+        "zipCode": "Home, 15"
+      }
+    },
+    {
+      "id": 4439058597988397558,
+      "name": "Org2",
+      "coordinates": {
+        "x": 54,
+        "y": 11
+      },
+      "creationDate": {
+        "date": {
+          "year": 2020,
+          "month": 3,
+          "day": 6
+        },
+        "time": {
+          "hour": 3,
+          "minute": 35,
+          "second": 28,
+          "nano": 398130700
+        }
+      },
+      "annualTurnover": 234.0,
+      "employeesCount": 43,
+      "type": "TRUST",
+      "officialAddress": {
+        "zipCode": "Home, 1"
+      }
+    },
+    {
+      "id": 6290718027602001506,
+      "name": "Org3",
+      "coordinates": {
+        "x": 0,
+        "y": 13
+      },
+      "creationDate": {
+        "date": {
+          "year": 2020,
+          "month": 3,
+          "day": 6
+        },
+        "time": {
+          "hour": 3,
+          "minute": 42,
+          "second": 0,
+          "nano": 432020200
+        }
+      },
+      "annualTurnover": 536.0,
+      "employeesCount": 143,
+      "type": "COMMERCIAL",
+      "officialAddress": {
+        "zipCode": "Home, 666"
+      }
+    },
+    {
+      "id": 7746973587008822749,
+      "name": "Org4",
+      "coordinates": {
+        "x": 54,
+        "y": -23
+      },
+      "creationDate": {
+        "date": {
+          "year": 2020,
+          "month": 3,
+          "day": 6
+        },
+        "time": {
+          "hour": 3,
+          "minute": 42,
+          "second": 54,
+          "nano": 618593600
+        }
+      },
+      "annualTurnover": 76589.0,
+      "employeesCount": 4234,
+      "type": "TRUST",
+      "officialAddress": {
+        "zipCode": "Lenskaya, 76"
+      }
+    },
+    {
+      "id": 3773004949677456196,
+      "name": "Org5",
+      "coordinates": {
+        "x": -456,
+        "y": 123
+      },
+      "creationDate": {
+        "date": {
+          "year": 2020,
+          "month": 3,
+          "day": 6
+        },
+        "time": {
+          "hour": 3,
+          "minute": 44,
+          "second": 50,
+          "nano": 595191400
+        }
+      },
+      "annualTurnover": 534.0,
+      "employeesCount": 1234,
+      "type": "PUBLIC",
+      "officialAddress": {
+        "zipCode": "Talnahskaya, 17"
+      }
+    }
+  ],
+  "date": "Mar 6, 2020, 2:57:48 AM"
+}

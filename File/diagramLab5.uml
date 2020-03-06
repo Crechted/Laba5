@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="444.0" y="0.0">Organization</node>
+    <node x="1081.0" y="883.0">Address</node>
+    <node x="560.0" y="1128.0">F</node>
+    <node x="939.0" y="0.0">CollectionOrganization</node>
+    <node x="883.0" y="883.0">Lab5</node>
+    <node x="151.5" y="1008.0">Work.Realization</node>
+    <node x="0.0" y="883.0">Work</node>
+    <node x="668.0" y="883.0">Coordinates</node>
+    <node x="0.0" y="1128.0">CreateElement</node>
+    <node x="469.0" y="883.0">OrganizationType</node>
+    <node x="389.0" y="1128.0">GenerateNum</node>
+    <node x="0.0" y="0.0">Command</node>
+    <node x="0.0" y="455.0">CommandImp1</node>
+    <node x="710.0" y="1128.0">File</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Work.Realization" target="Work">
+      <point x="0.0" y="-37.5" />
+      <point x="0.0" y="37.5" />
+    </edge>
+    <edge source="CommandImp1" target="Command">
+      <point x="0.0" y="-191.5" />
+      <point x="0.0" y="202.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5990712074303407" x="597.4107602846773" y="431.83817373209945" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>Production</SCOPE>
+  <VISIBILITY>protected</VISIBILITY>
+</Diagram>
+
